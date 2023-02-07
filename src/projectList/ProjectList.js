@@ -51,6 +51,7 @@ export default function ProjectList(props)
                                        <th scope='col'>Message</th>
                                        <th scope='col'>Action</th>    
                                         
+                                        
                                     </tr>
                                     
                                 </thead>
